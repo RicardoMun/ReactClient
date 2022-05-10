@@ -5,22 +5,22 @@
     display: flex;
 
     button {
-        color: $font-light;
+        color: white;
 
         &:hover {
-            color: $primary-color;
+            color: white;
         }
 
         &:focus,
         &:active {
-            color: $font-light;
+            color: white;
         }
     }
 
     &__left {
         &-logo {
-            width: 80px;
-            padding: 0 10px;
+            width: 50px;
+            padding: 0 4px;
         }
     }
 
