@@ -1,7 +1,7 @@
 import React from "react";
 import Logo from "../../../assets/img/png/Logo.png";
 import { Button } from "antd"
-import{ MenuUnfoldOutlined, MenuFoldOutlined, PoweroffOutlined } from "@ant-design/icons"
+import { MenuUnfoldOutlined, MenuFoldOutlined, PoweroffOutlined } from "@ant-design/icons"
 import "./MenuTop.scss";
 
 export default function MenuTop(props){
