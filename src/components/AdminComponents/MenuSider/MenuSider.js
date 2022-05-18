@@ -10,7 +10,7 @@ export default function MenuSider(props){
     
     return (
         <Sider className="admin-sider" collapsed = {menuCollapsed} >
-            <Menu theme="dark" mode="inline" defaultSelectedKeys={["/admin"]}>
+            <Menu theme="dark" mode="inline" defaultSelectedKeys={["1"]}>
                 <Menu.Item key="1">
                     <Link to={"/admin"}>
                         <HomeOutlined />
